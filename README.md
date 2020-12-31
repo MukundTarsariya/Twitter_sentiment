@@ -1,5 +1,5 @@
 # Tweet_Sentiment_Analysis
-**Update**(13 Oct. 2019): I don't actively maintain this repository. This work was done for a course project and the dataset cannot be released because I don't own the copyright.
+**Update**(31 Dec. 2020): I don't actively maintain this repository. This work was done for a course project and the dataset cannot be released because I don't own the copyright.
 
 ## Dataset Information
 
